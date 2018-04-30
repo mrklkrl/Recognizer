@@ -1,3 +1,5 @@
+DEMO AT https://www.youtube.com/watch?v=hm2RXrdl6Dk
+
 FACIAL RECOGNITION README 5/3/2017
 author: Michael Cole
 
